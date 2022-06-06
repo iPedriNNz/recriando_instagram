@@ -1,4 +1,4 @@
-Recriando a página inicial do Instagram com HTML e CSS | Santander DIO Bootcamp
+Recriando a página inicial do Instagram com HTML e CSS | Bootcamp Santander DIO 
 
 <a href="https://github.com/iPedriNNz/bootcamp_santander"> • Repositório com todos os links dos projetos
   
